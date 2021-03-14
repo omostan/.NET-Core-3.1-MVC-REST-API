@@ -375,3 +375,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode
+
+# Begin of user ignored list
+omostan_.NET-Core-3.1-MVC-REST-API.pdf
